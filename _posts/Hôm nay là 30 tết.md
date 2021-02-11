@@ -2,7 +2,7 @@
 layout: post
 title: "Suy nghĩ - Khát khao - Động lực"
 date: 2021-02-11
-excerpt: "None"
+excerpt: "Suy nghĩ - Khát khao - Động lực"
 tags: [những suy nghĩ trong tôi]
 comments: false
 ---
